@@ -1,2 +1,2 @@
-User-agent*
+User-agent:*
 disallow: blog.riki-pedia.org
