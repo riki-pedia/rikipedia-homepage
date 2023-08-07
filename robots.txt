@@ -1,2 +1,2 @@
 User-agent:*
-disallow: blog.riki-pedia.org
+disallow: blog.riki-pedia.org/*
